@@ -6,5 +6,9 @@ public class Class01 {
         // version 1
 
         System.out.println("This is a code for version 1");
+
+        // Version 2
+
+        System.out.println("This is a code for version 2");
     }
 }
