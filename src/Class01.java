@@ -10,5 +10,9 @@ public class Class01 {
         // Version 2
 
         System.out.println("This is a code for version 2");
+
+        // Version 3
+
+        System.out.println("This is a code for version 3");
     }
 }
