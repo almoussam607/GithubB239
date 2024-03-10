@@ -14,7 +14,5 @@ public class Class01 {
         // Version 3
 
         System.out.println("This is a code for version 3");
-
-        fdfgdsgd
     }
 }
